@@ -1,0 +1,10 @@
+{
+  "name": "test-plugin",
+  "main": "src/index.js",
+  "scripts": {},
+  "dependencies": {
+    "vue": "^3.0.0-0"
+  },
+  "devDependencies": {},
+  "version": "0.1.0"
+}
